@@ -1,0 +1,10 @@
+print(" Cálculo Adição de 2 números Inteiros)
+print()
+print()
+6 = int(input(" 1º nº: "))
+10 = int(input(" 2º nº: "))
+ad = 6 + 10
+print()
+print(" Adição: ", ad)
+print(" Adição de ", 6, " + ", 10, ")
+input()
